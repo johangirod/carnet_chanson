@@ -1,0 +1,65 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Amoureuse}
+  [by={Véronique Sanson}]
+  \gtab*{Amadd9}{032200}
+  \gtab*{C/B}{X20010}
+  \gtab*{C/E}{032010}
+  
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics \[Am Amadd9 Am Amadd9]}
+\end{verse*}
+ 
+\begin{verse}
+ 
+\[Am]   Une nuit, je m'endors avec l\[Am]ui
+\[C7]   Mais je sais qu'on nous l'interd\[C7]it
+\[F]   Et je sens la fièvre qui me m\[Am]ord
+\[Em]   Sans que j'aie l'ombre d'un rem\[F]ords.\[C]..   \[C/B] 
+\end{verse}
+\begin{verse*}
+\[Am]   Et l'aurore m'apporte le somm\[Am]eil
+\[C7]   Je ne veux pas qu'arrive le sol\[C7]eil
+\[F]   Quand je prends sa tête entre mes m\[Am]ains
+\[Em]   Je vous jure que j'ai du chag\[F]rin... \[C]
+Et je me d\[F]emande
+\[Fm]   Si cet am\[C]our aura un lend\[Dm]emain
+\end{verse*}
+
+\begin{chorus}
+\[G]   Quand je suis l\[C]oin de lui
+\[Dm7]   Quand je suis l\[C/E]oin de lui
+\[F]   Je n'ai p\[C]lus vraiment toute ma t\[Dm]ête
+\[G7]   Et je n' suis p\[C]lus d'ici
+\[Dm7]   Oh! Je n' suis p\[C/E]lus d'ici
+\[F]   Je ress\[C]ens la pluie d'une autre p\[Dm]lanète
+
+
+\[G]   D'une autre p\[F]lanète  \[C]     \[C/B] 
+\end{chorus}
+\begin{verse}
+\[Am]   Quand il me serre tout contre l\[Am]ui
+\[C7]   Quand je sens que j'entre dans sa v\[C7]ie
+\[F]   Je prie pour que le destin m'en s\[Am]orte
+\[Em]   Je prie pour que le diable m'emp\[F]orte...\[C]     \[C/B] 
+\end{verse}
+\begin{verse*}
+\[Am]   Et l'angoisse me montre son vis\[Am]age
+\[C7]   Elle me force à parler son lang\[C7]age
+\[F]   Mais quand je prends sa tête entre mes m\[Am]ains
+\[Em]   Je vous jure que j'ai du chag\[F]rin..\[C].
+\[Et] je me d\[F]emande
+\[Fm]   Si cet am\[C]our aura un lend\[Dm]emain
+\end{verse*}
+
+\begin{chorus}
+
+\[G]   Quand je suis l\[C]oin de lui
+\[Dm7]   Quand je suis l\[C/E]oin de lui
+\[F]   Je n'ai p\[C]lus vraiment toute ma t\[Dm]ête
+\[G7]   Et je n' suis p\[C]lus d'ici
+\[Dm7]   Oh! Je n' suis p\[C/E]lus d'ici
+\[F]   Je ress\[C]ens la pluie d'une autre p\[Dm]lanète
+\[G]   D'une autre p\[F]lanète  \[C]
+\end{chorus}
+\endsong

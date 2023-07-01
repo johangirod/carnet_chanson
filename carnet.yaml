@@ -1,0 +1,110 @@
+
+book:
+  lang: fr
+  encoding: utf8
+  datadir: "patadata"
+  pictures: yes
+chords:
+  show: yes
+  diagramreminder: important
+  repeatchords: yes
+  lilypond: yes
+
+authors:
+  separators:
+    - "and"
+    - "et"
+
+content:
+  - section: "Les anciens"
+  - "georges_moustaki/*.sg"
+  - "barbara/dis_quand_reviendras_tu.sg"
+  - "maxime_le_forestier/ne_quelque_part.sg"
+  - "maxime_le_forestier/san_francisco.sg"
+  - "charles_aznavour/emmenez-moi.sg"
+  - "charles_aznavour/comme_ils_disent.sg"
+  - "jean_ferrat/que_serais_je_sant_toi.sg"
+  - "georges_brassens/le_vieux_léon.sg"
+  - "georges_brassens/les_copains_d_abord.sg"
+  - "georges_brassens/hécatombe.sg"
+  - "nino_ferrer/le_sud.sg"
+  - "jacques_brel/ne_me_quitte_pas.sg"
+  - "anne_sylvestre/les_gens_qui_doutent.sg"
+  - "joe_dassin/salut_les_amoureux.sg"
+  - section: "Les divas"
+  - "céline_dion/*.sg"
+  - "véronique_sanson/*.sg"
+  - "dalida/*.sg"
+  - "france_gall/ella_elle_l_a.sg"
+  - "france_gall/il_jouait_du_piano_debout.sg"
+  - "mylène_farmer/désenchantée.sg"
+  - "adele/someone_like_you.sg"
+  - section: "Les pops"
+  - "christophe/les_mots_bleus.sg"
+  - "christophe/aline.sg"
+  - "m/la_seine.sg"
+#   Clara Luciani - Le reste / La grenade
+# Niagara - Pendant que les champs brulent
+# Juliette Armanet - L'amour en solitaire
+# Juliette Armanet - Le dernier jour du disco
+# Vanessa Paradis - La seine
+# Zazie - J'envoie valser ?
+# Olivia Ruiz - J'traîne des pieds
+# Pomme - Grandiose
+  - section: Chansons tristes mais réconfortante
+  - les_cowboys_fringants/etoiles_filantes.sg
+  - les_cowboys_fringants/plus_rien.sg
+  - les_cowboys_fringants/toune_d_automne.sg
+  - jacques_higelin/je_ne_peux_plus_dire_je_t_aime.sg
+  - moriarty/jimmy.sg
+  - aaron/u_turn_lili.sg
+  - radiohead/creep.sg
+  - gary_jules/mad_world
+  # Gael Faure - Traverser l'hiver
+  # Qui peut faire de la voile sans vent
+  - section: Les pas encore tout à fait anciens mais peut etre un jour
+  - francis_cabrel/la_corrida.sg
+  - francis_cabrel/l_encre_de_tes_yeux.sg
+  - renaud/amoureux_de_paname.sg
+  - renaud/mistral_gagnant.sg
+  - renaud/la_ballade_nord_irlandaise.sg
+  - renaud/c_est_quand_qu_on_va_ou.sg
+  - tri_yann/la_ville_que_j_ai_tant_aimee.sg
+  - # tri_yann/pelot_.sg
+  - les_innocents/l_autre_finistere.sg
+  - raphael/caravane.sg
+  - louise_attaque/ton_invitation.sg
+  - section: Les internationales
+  #What's up - 4 non Blondes
+  - simon_garfunkel/the_sound_of_silence.sg
+  - pink_floyd/wish_you_were_here.sg
+  #Take me home country road - John Denver
+  - jeff_buckley/hallelujah.sg
+  - fools_garden/lemon_tree.sg
+  - cat_stevens/wild_world.sg
+  - the_animals/house_of_the_rising_sun.sg
+  - oasis/wonderwall.sg
+  - red_hot_chili_peppers/californication.sg
+  #Bella Ciao
+  - section: Les inclassables
+  #Myosotis - La nuit de gloire
+  #Le chant des partisans
+  #L'air du vent - Pochantas
+  - alex_beaupain/as_tu_deja_aime.sg
+  - yves_montand/le_temps_des_cerises.sg
+template:
+  default.tex:
+    title: "Carnet de chanson"
+    author: "Johan & Yannick"
+  patacrep.tex:
+    subtitle: "Mariage de Johan & Yannick 🌈"
+    url: ""
+    email: ""
+    picture: "img/Mousey_Band_by_Duffzilla.jpg"
+    color:
+      songlink: FF0000
+      hyperlink: 0000FF
+    bgcolor:
+      note: D1E4AE
+      songnumber: AED1E4
+      index: E4AED1
