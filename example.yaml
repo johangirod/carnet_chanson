@@ -1,0 +1,31 @@
+
+book:
+  lang: fr
+  encoding: utf8
+  datadir: "patadata"
+  pictures: yes
+chords:
+  show: yes
+  diagramreminder: important
+  repeatchords: yes
+  lilypond: yes
+
+authors:
+  separators:
+    - "and"
+    - "et"
+
+content:
+  - section: "Les anciens"
+  - "georges_moustaki/*.sg"
+  - "barbara/dis_quand_reviendras_tu.sg"
+  - "maxime_le_forestier/ne_quelque_part.sg"
+  - "maxime_le_forestier/san_francisco.sg"
+  - "charles_aznavour/emmenez-moi.sg"
+  - "charles_aznavour/comme_ils_disent.sg"
+  - "jean_ferrat/que_serais_je_sant_toi.sg"
+  - "georges_brassens/le_vieux_léon.sg"
+  - "georges_brassens/les_copains_d_abord.sg"
+  - "georges_brassens/hécatombe.sg"
+  - "nino_ferrer/le_sud.sg"
+  - "jacques_brel/ne_me_quitte_pas.sg"
