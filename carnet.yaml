@@ -34,23 +34,33 @@ content:
   - "dalida/*.sg"
   - "france_gall/ella_elle_l_a.sg"
   - "france_gall/il_jouait_du_piano_debout.sg"
-  - section: "Les divas"
-  - "céline_dion/*.sg"
-  - "véronique_sanson/*.sg"
-  - "mylène_farmer/désenchantée.sg"
+
   - section: "Les pops"
   - "christophe/les_mots_bleus.sg"
   - "christophe/aline.sg"
   - "m/la_seine.sg"
   - "niagara/*.sg"
+  - "céline_dion/*.sg"
+  - "mylène_farmer/désenchantée.sg"
   - "juliette_armanet/*.sg"
-#   Clara Luciani - Le reste / La grenade
-# Niagara - Pendant que les champs brulent
+  - "olivia_ruiz/*.sg"
+  - "clara_luciani/*.sg"
+  # Zazie - J'envoie valser ?
 
-# Vanessa Paradis - La seine
-# Zazie - J'envoie valser ?
-# Olivia Ruiz - J'traîne des pieds
-# Pomme - Grandiose
+  - section: Les pas encore tout à fait anciens mais peut etre un jour
+  - francis_cabrel/la_corrida.sg
+  - francis_cabrel/l_encre_de_tes_yeux.sg
+  - renaud/amoureux_de_paname.sg
+  - renaud/mistral_gagnant.sg
+  - renaud/c_est_quand_qu_on_va_ou.sg
+  - renaud/la_ballade_nord_irlandaise.sg
+  - tri_yann/la_ville_que_j_ai_tant_aimee.sg
+  - "véronique_sanson/*.sg"
+  - "michel_berger/*.sg"
+  - les_innocents/l_autre_finistere.sg
+  - raphael/caravane.sg
+  - louise_attaque/ton_invitation.sg
+
   - section: Chansons tristes mais réconfortante
   - les_cowboys_fringants/etoiles_filantes.sg
   - les_cowboys_fringants/plus_rien.sg
@@ -65,20 +75,9 @@ content:
   - traditionnel/qui_peut_faire_de_la_voile_sans_vent.sg
 
 
-  - section: Les pas encore tout à fait anciens mais peut etre un jour
-  - francis_cabrel/la_corrida.sg
-  - francis_cabrel/l_encre_de_tes_yeux.sg
-  - renaud/amoureux_de_paname.sg
-  - renaud/mistral_gagnant.sg
-  - renaud/c_est_quand_qu_on_va_ou.sg
-  - renaud/la_ballade_nord_irlandaise.sg
-  - tri_yann/la_ville_que_j_ai_tant_aimee.sg
-  - # tri_yann/pelot_.sg
-  - les_innocents/l_autre_finistere.sg
-  - raphael/caravane.sg
-  - louise_attaque/ton_invitation.sg
   - section: Les internationales
   - "adele/someone_like_you.sg"
+  - "miley_cirus/*.sg"
   - "4_non_blondes/what_s_up.sg"
   - simon_garfunkel/the_sound_of_silence.sg
   - pink_floyd/wish_you_were_here.sg
@@ -89,18 +88,17 @@ content:
   - oasis/wonderwall.sg
   - red_hot_chili_peppers/californication.sg
   - john_denver/take_me_home_country_road.sg
-
-  #Bella Ciao
+  - the_beatles/let_it_be.sg
 
 
   - section: Les inclassables
-  #Myosotis - La nuit de gloire
-  #Le chant des partisans
-  #L'air du vent - Pochantas
   - traditionnel/bella_ciao.sg
   - traditionnel/le_chant_des_partisans.sg
-  - alex_beaupain/as_tu_deja_aime.sg
   - yves_montand/le_temps_des_cerises.sg
+  - dessins_animes/l_air_du_vent.sg
+  - alex_beaupain/as_tu_deja_aime.sg
+  #Myosotis - La nuit de gloire
+
 template:
   default.tex:
     title: "Carnet de chanson"
