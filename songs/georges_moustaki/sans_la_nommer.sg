@@ -1,5 +1,5 @@
 \selectlanguage{french}
-\songcolumns{2}
+\songcolumns{3}
 \beginsong{Sans la nommer}
   [by={Georges Moustaki}]
 
@@ -43,7 +43,7 @@
   \end{verse}
 
   \begin{chorus}
-  [Refrain]
+\Chorus
   \end{chorus}
 
   \begin{verse}
@@ -56,7 +56,7 @@
   \end{verse}
 
   \begin{chorus}
-  [Refrain] (x2) 
+\Chorus \rep{2}
   \end{chorus}
 
 

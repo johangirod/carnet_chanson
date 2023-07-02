@@ -3,7 +3,8 @@ book:
   lang: fr
   encoding: utf8
   datadir: "patadata"
-  pictures: yes
+  template: carnet.tex
+  pictures: no
 chords:
   show: yes
   diagramreminder: important
@@ -16,102 +17,97 @@ authors:
     - "et"
 
 content:
-  - section: "Les ancien•ne•s"
-  - "georges_moustaki/*.sg"
+  - songsection: "Variété - Avant 1980"
+  - "georges_moustaki/ma_liberté.sg"
+  - "georges_moustaki/sans_la_nommer.sg"
+  - "georges_moustaki/le_méthèque.sg"
   - "barbara/dis_quand_reviendras_tu.sg"
   - "maxime_le_forestier/ne_quelque_part.sg"
   - "maxime_le_forestier/san_francisco.sg"
   - "charles_aznavour/emmenez-moi.sg"
   - "charles_aznavour/comme_ils_disent.sg"
-  - "jean_ferrat/que_serais_je_sant_toi.sg"
-  - "georges_brassens/le_vieux_léon.sg"
+  - "jean_ferrat/*.sg"
   - "georges_brassens/les_copains_d_abord.sg"
   - "georges_brassens/hécatombe.sg"
-  - "nino_ferrer/le_sud.sg"
+  - "georges_brassens/le_vieux_léon.sg"
   - "jacques_brel/ne_me_quitte_pas.sg"
+  - "nino_ferrer/le_sud.sg"
   - "anne_sylvestre/les_gens_qui_doutent.sg"
   - "joe_dassin/salut_les_amoureux.sg"
   - "dalida/*.sg"
-  - "france_gall/ella_elle_l_a.sg"
-  - "france_gall/il_jouait_du_piano_debout.sg"
-
-  - section: "Les pops"
   - "christophe/les_mots_bleus.sg"
   - "christophe/aline.sg"
-  - "m/la_seine.sg"
+  - "véronique_sanson/*.sg"
+  - jacques_higelin/je_ne_peux_plus_dire_je_t_aime.sg
+
+
+  - songsection: "Variété - De 1980 à 2000"
+  - "michel_berger/*.sg"
+  - "france_gall/ella_elle_l_a.sg"
+  - "france_gall/il_jouait_du_piano_debout.sg"
   - "niagara/*.sg"
+  - les_innocents/l_autre_finistere.sg
   - "céline_dion/*.sg"
   - "mylène_farmer/désenchantée.sg"
-  - "juliette_armanet/*.sg"
-  - "olivia_ruiz/*.sg"
-  - "clara_luciani/*.sg"
-  # Zazie - J'envoie valser ?
-
-  - section: Les pas encore tout à fait anciens mais peut etre un jour
-  - francis_cabrel/la_corrida.sg
   - francis_cabrel/l_encre_de_tes_yeux.sg
+  - francis_cabrel/la_corrida.sg
   - renaud/amoureux_de_paname.sg
   - renaud/mistral_gagnant.sg
   - renaud/c_est_quand_qu_on_va_ou.sg
   - renaud/la_ballade_nord_irlandaise.sg
   - tri_yann/la_ville_que_j_ai_tant_aimee.sg
-  - "véronique_sanson/*.sg"
-  - "michel_berger/*.sg"
-  - les_innocents/l_autre_finistere.sg
-  - raphael/caravane.sg
-  - louise_attaque/ton_invitation.sg
 
-  - section: Chansons tristes mais réconfortante
+  - songsection: "Variété - De 2000 à 2023"
+  - "m/la_seine.sg"
+  - "juliette_armanet/*.sg"
+  - "olivia_ruiz/*.sg"
+  - "clara_luciani/*.sg"
+  - raphael/caravane.sg
+  - kyo/derniere_danse.sg
+  - alex_beaupain/as_tu_deja_aime.sg
+  - louise_attaque/ton_invitation.sg
   - les_cowboys_fringants/etoiles_filantes.sg
   - les_cowboys_fringants/plus_rien.sg
   - les_cowboys_fringants/toune_d_automne.sg
-  - jacques_higelin/je_ne_peux_plus_dire_je_t_aime.sg
-  - moriarty/jimmy.sg
-  - radiohead/creep.sg
-  - aaron/u_turn_lili.sg
-  - gary_jules/mad_world.sg
   - gael_faure/*.sg
   - pomme/*.sg
-  - traditionnel/qui_peut_faire_de_la_voile_sans_vent.sg
 
-
-  - section: Les internationales
+  - songsection: Les internationales
   - "adele/someone_like_you.sg"
   - "miley_cirus/*.sg"
   - "4_non_blondes/what_s_up.sg"
   - simon_garfunkel/the_sound_of_silence.sg
   - pink_floyd/wish_you_were_here.sg
+  - gary_jules/mad_world.sg
   - jeff_buckley/hallelujah.sg
   - fools_garden/lemon_tree.sg
   - cat_stevens/wild_world.sg
   - the_animals/house_of_the_rising_sun.sg
-  - oasis/wonderwall.sg
+  - moriarty/jimmy.sg
+  - radiohead/creep.sg
+  - aaron/u_turn_lili.sg
   - red_hot_chili_peppers/californication.sg
-  - john_denver/take_me_home_country_road.sg
   - the_beatles/let_it_be.sg
+  - john_denver/take_me_home_country_road.sg
+  - belle_sebastian/piazza_new_york_catcher.sg
+  - oasis/wonderwall.sg
 
-
-  - section: Les inclassables
+  - songsection: Les inclassables
   - traditionnel/bella_ciao.sg
   - traditionnel/le_chant_des_partisans.sg
   - yves_montand/le_temps_des_cerises.sg
+  - traditionnel/qui_peut_faire_de_la_voile_sans_vent.sg
+  - pow_wow/le_lion_est_mort_ce_soir.sg
   - dessins_animes/l_air_du_vent.sg
-  - alex_beaupain/as_tu_deja_aime.sg
   #Myosotis - La nuit de gloire
 
 template:
-  default.tex:
-    title: "Carnet de chanson"
-    author: "Johan & Yannick"
-  patacrep.tex:
-    subtitle: "Mariage de Johan & Yannick 🌈"
-    url: ""
-    email: ""
-    picture: "img/Mousey_Band_by_Duffzilla.jpg"
+  carnet.tex:
     color:
-      songlink: FF0000
-      hyperlink: 0000FF
+      songlink: 5b21b6
+      hyperlink: 5b21b6
     bgcolor:
       note: D1E4AE
       songnumber: AED1E4
       index: E4AED1
+      

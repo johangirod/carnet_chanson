@@ -1,5 +1,5 @@
 \selectlanguage{french}
-\songcolumns{1}
+\songcolumns{2}
 \beginsong{Sous le vent}
   [by={Céline Dion et Garou}]
 
@@ -8,40 +8,53 @@
     \musicnote{\Intro: \nolyrics \[Em C G]}
 \end{verse*}
 \begin{verse}
-\[Em]Et si tu c\[C]rois que j’ai eu \[G]peur c’est faux
-\[Em]Je donne des \[C]vacances à mon c\[G]œur un peu de re\[D]pos
-\[Em]Et si tu cr\[C]ois que j’ai eu \[G]tort attends!
-\[Em]Respire un peu le \[C]souffle d\[G]’or qui me pousse en \[D]avant et
+\[Em]Et si tu c\[C]rois que j’ai eu \[G]peur
+C’est faux
+\[Em]Je donne des \[C]vacances à mon c\[G]œur
+Un peu de re\[D]pos
+\[Em]Et si tu cr\[C]ois que j’ai eu \[G]tort
+Attends!
+\[Em]Respire un peu le \[C]souffle d\[G]’or
+Qui me pousse en \[D]avant et
 \end{verse}
 \begin{chorus}
-\[Am]Fais comme si j’avais pris la \[C]mer j’ai sorti la
-grande v\[G]oile et j’ai glissé sous le \[D]vent
-\[Am]Fais comme si je quittais la te\[C]rre j’ai trouvé
-mon \[G]étoile je l’ai suivie un \[D]instant
+\[Am]Fais comme si j’avais pris la \[C]mer
+J’ai sorti la grande v\[G]oile
+Et j’ai glissé sous le \[D]vent
+\[Am]Fais comme si je quittais la te\[C]rre 
+J’ai trouvé mon \[G]étoile je l’ai 
+Suivie un \[D]instant
 \end{chorus}
 \begin{verse}
-\[F#m]Et si tu cr\[D]ois que c’est fi\[A]ni jamais
-\[F#m]C’est juste \[D]une pause un ré\[A]pit après les dan\[E]gers
-\[F#m]Et si tu cr\[D]ois que je t’oub\[A]lie écoute!
-\[F#m]Ouvre ton \[D]corps au vent de la n\[A]uit ferme les \[E]yeux et
+\[F#m]Et si tu cr\[D]ois que c’est fi\[A]ni 
+Jamais
+\[F#m]C’est juste \[D]une pause un ré\[A]pit 
+Après les dan\[E]gers
+\[F#m]Et si tu cr\[D]ois que je t’oub\[A]lie 
+Écoute!
+\[F#m]Ouvre ton \[D]corps au vent de la n\[A]uit 
+Ferme les \[E]yeux et
 \end{verse}
 \begin{chorus}
-    \[Am]Fais comme si j’avais pris la \[C]mer j’ai sorti la
-    grande v\[G]oile et j’ai glissé sous le \[D]vent
-    \[Am]Fais comme si je quittais la te\[C]rre j’ai trouvé
-    mon \[G]étoile je l’ai suivie un \[D]instant
+    \Chorus
     \end{chorus}
 \begin{verse}
-\[G#m]Et si tu cr\[E]ois que c’est fin\[B]i jamais
-\[G#m]C’est juste u\[E]ne pause un rép\[B]it après les da\[F#]ngers
+\[G#m]Et si tu cr\[E]ois que c’est fin\[B]i 
+Jamais
+\[G#m]C’est juste u\[E]ne pause un rép\[B]it 
+Après les da\[F#]ngers
 \end{verse}
 \begin{chorus}
-    \[Am]Fais comme si j’avais pris la \[C]mer j’ai sorti la
-    grande v\[G]oile et j’ai glissé sous le \[D]vent
-    \[Am]Fais comme si je quittais la te\[C]rre j’ai trouvé
-    mon \[G]étoile je l’ai suivie un \[D]instant
+    \[Am]Fais comme si j’avais pris la \[C]mer 
+    J’ai sorti la grande v\[G]oile 
+    Et j’ai glissé sous le \[D]vent \echo{j'ai glissé sous le vent}
+    \[Am]Fais comme si je quittais la te\[C]rre 
+    J’ai trouvé mon \[G]étoile 
+    Je l’ai suivie un \[D]instant \echo{Suivi un instant}
     \rep{2}
     \end{chorus}
-
+    \begin{verse*}
+        Sous le vent \rep{2}
+    \end{verse*}
 
 \endsong
