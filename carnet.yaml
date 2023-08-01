@@ -10,6 +10,7 @@ chords:
   diagramreminder: important
   repeatchords: yes
   lilypond: yes
+  # notation: alphascale
 
 authors:
   separators:
@@ -106,10 +107,10 @@ content:
 template:
   carnet.tex:
     color:
-      songlink: 5b21b6
-      hyperlink: 5b21b6
+      songlink: '222222'
+      hyperlink: '222222'
     bgcolor:
-      note: D1E4AE
-      songnumber: AED1E4
-      index: E4AED1
+      note: 'dddddd'
+      songnumber: 'aaaaaa'
+      index: 'aaaaaa'
       
