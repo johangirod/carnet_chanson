@@ -1,0 +1,77 @@
+ 
+ \selectlanguage{english}
+ \songcolumns{2}
+ \beginsong{Video games}
+   [by={Lana\ del\ Rey},album={Born To Die}]
+
+\begin{verse}
+
+\[F#m]Swinging in the \[A]backyard
+\[F#m]Pull up in your \[A]fast car
+\[C#m]Whistling my \[D]name
+ 
+ 
+\[F#m]Open up a \[A]beer
+And you \[F#m]take it over \[A]here
+And play a \[C#m]video \[D]game  \[F#m]
+ 
+ 
+I'm \[F#m]in his favorite \[A]sun dress
+\[F#m]Watching me get \[A]undressed
+\[C#m]Take that body \[D]downtown
+\[F#m]I say you the \[A]bestest
+\[F#m]Lean in for a \[A]big kiss
+\[C#m]Put his favorite \[D]perfume \[F#m]on
+Go play a \[C#m]video \[D]game
+\end{verse}
+ 
+\begin{chorus}
+\[E]It's you, it's you, it's all for you
+Everything I do
+I tell you all the \[D]time
+Heaven is a place on earth with \[A]you
+Tell me all the things you w\[A/G#]ant to \[F#m]do
+I heard that you like the bad girls
+\[D]Honey, is that true ?
+It's better than I ever even \[A]knew
+They say that the world was b\[A/G#]uilt for \[F#m]two
+Only worth living if some\[D]body is loving \[D(dim)]you
+Baby now you \[F#m]do
+\end{chorus}
+ 
+\begin{verse}
+\musicnote {\nolyrics \[F\shrp{m} A F\shrp{m} A C\shrp{m} D ]}
+
+ 
+ 
+\[F#m]Singing in the \[A]old bars
+\[F#m]Swinging with the \[A]old stars
+\[C#m]Living for the \[D]fame
+ 
+ 
+\[F#m]Kissing in the \[A]blue dark
+\[F#m]Playing pool and \[A]wild darts
+\[C#m]Video \[D]games  \[F#m]
+ 
+ 
+\[F#m]He holds me in his \[A]big arms
+\[F#m]Drunk and I am \[A]seeing stars
+\[C#m]This is all I \[D]think of
+ 
+ 
+\[F#m]Watching all our \[A]friends fall
+\[F#m]In and out of \[A]Old Paul's
+\[C#m]This is my \[D]idea of \[F#m]fun
+Playing \[C#m]video \[D]games
+\end{verse}
+ 
+
+\begin{chorus}
+    \Chorus 
+    \textnote[french]{À la fin des refrains :}   
+    \[A]Now you\[F#m] do, n\[A]ow you \[C#m]do, no\[D]w you do
+    
+
+    \rep{2}
+\end{chorus}
+\endsong

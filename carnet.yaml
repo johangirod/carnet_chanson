@@ -1,0 +1,116 @@
+
+book:
+  lang: fr
+  encoding: utf8
+  datadir: "patadata"
+  template: carnet.tex
+  pictures: no
+chords:
+  show: yes
+  diagramreminder: important
+  repeatchords: yes
+  lilypond: yes
+  # notation: alphascale
+
+authors:
+  separators:
+    - "and"
+    - "et"
+
+content:
+  - songsection: "Chansons en français - Avant 1980"
+  - "georges_moustaki/sans_la_nommer.sg"
+  - "georges_moustaki/ma_liberté.sg"
+  - "georges_moustaki/le_méthèque.sg"
+  - "maxime_le_forestier/ne_quelque_part.sg"
+  - "maxime_le_forestier/san_francisco.sg"
+  - "barbara/dis_quand_reviendras_tu.sg"
+  - "anne_sylvestre/les_gens_qui_doutent.sg"
+  - "jean_ferrat/*.sg"
+  - "georges_brassens/hécatombe.sg"
+  - "georges_brassens/les_copains_d_abord.sg"
+  - "georges_brassens/le_vieux_léon.sg"
+  - "jacques_brel/ne_me_quitte_pas.sg"
+  - "charles_aznavour/emmenez-moi.sg"
+  - "charles_aznavour/comme_ils_disent.sg"
+  - "nino_ferrer/le_sud.sg"
+  - "joe_dassin/salut_les_amoureux.sg"
+  - "dalida/*.sg"
+  - "christophe/aline.sg"
+  - "christophe/les_mots_bleus.sg"
+  - "véronique_sanson/*.sg"
+  - jacques_higelin/je_ne_peux_plus_dire_je_t_aime.sg
+
+
+  - songsection: "Chansons en français - De 1980 à 2000"
+  - "niagara/*.sg"
+  - "france_gall/ella_elle_l_a.sg"
+  - "france_gall/il_jouait_du_piano_debout.sg"
+  - "michel_berger/*.sg"
+  - "mylène_farmer/désenchantée.sg"
+  - "céline_dion/*.sg"
+  - renaud/la_ballade_nord_irlandaise.sg
+  - renaud/mistral_gagnant.sg
+  - renaud/amoureux_de_paname.sg
+  - francis_cabrel/la_corrida.sg
+  - francis_cabrel/l_encre_de_tes_yeux.sg
+  - les_innocents/l_autre_finistere.sg
+  - tri_yann/la_ville_que_j_ai_tant_aimee.sg
+
+  - songsection: "Chansons en français - De 2000 à 2023"
+  - "clara_luciani/*.sg"
+  - "m/la_seine.sg"
+  - "juliette_armanet/*.sg"
+  - "olivia_ruiz/*.sg"
+  - raphael/caravane.sg
+  - kyo/derniere_danse.sg
+  - les_cowboys_fringants/toune_d_automne.sg
+  - les_cowboys_fringants/plus_rien.sg
+  - les_cowboys_fringants/etoiles_filantes.sg
+  - gael_faure/*.sg
+  - pomme/*.sg
+  - louise_attaque/ton_invitation.sg
+
+  - songsection: Les internationales
+  - "adele/someone_like_you.sg"
+  - "4_non_blondes/what_s_up.sg"
+  - pink_floyd/wish_you_were_here.sg
+  - "miley_cirus/*.sg"
+  - sufjan_stevens/*.sg
+  - elliott_smith/*.sg
+  - "lana_del_rey/*.sg"
+  - gary_jules/mad_world.sg
+  - radiohead/creep.sg
+  - jeff_buckley/hallelujah.sg
+  - john_denver/take_me_home_country_road.sg
+  - moriarty/jimmy.sg
+  - the_animals/house_of_the_rising_sun.sg
+  - aaron/u_turn_lili.sg
+  - belle_sebastian/piazza_new_york_catcher.sg
+  - the_beatles/yesterday.sg
+  - the_beatles/let_it_be.sg
+  - simon_garfunkel/the_sound_of_silence.sg
+  - fools_garden/lemon_tree.sg
+  - oasis/wonderwall.sg
+  - cat_stevens/wild_world.sg
+  - red_hot_chili_peppers/californication.sg
+  - songsection: Les inclassables
+  - alex_beaupain/as_tu_deja_aime.sg
+  - dessins_animes/l_air_du_vent.sg
+  - traditionnel/bella_ciao.sg
+  - traditionnel/le_chant_des_partisans.sg
+  - yves_montand/le_temps_des_cerises.sg
+  - traditionnel/qui_peut_faire_de_la_voile_sans_vent.sg
+  - pow_wow/le_lion_est_mort_ce_soir.sg
+  #Myosotis - La nuit de gloire
+
+template:
+  carnet.tex:
+    color:
+      songlink: '222222'
+      hyperlink: '222222'
+    bgcolor:
+      note: 'dddddd'
+      songnumber: 'aaaaaa'
+      index: 'aaaaaa'
+      

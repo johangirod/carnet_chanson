@@ -1,0 +1,66 @@
+     
+
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Résiste}
+  [by={France Gall}]
+\begin{verse}
+\[Gm]Si on t'organise \[Bb]   une vie bien diri\[C]gée
+Où tu t'oublieras \[Eb]vite,
+Si \[Gm]on te fait danser \[Bb]   sur une musique sans \[C]âme
+Comme un amour qu'on \[Eb]quitte,
+\[Gm]  Si tu réalises que la \[D]vie n'es    t pas \[D/C]là,
+Que, le \[D/Bb]matin, tu    te l D/A èves
+Sans sa\[D7]voir où tu vas,
+\end{verse}
+
+
+\begin{chorus}
+
+Ré\[Gm]siste !\[G/B]
+\[Cm7]  Prouve|\[D] que tu e\[Gm]xistes \[G/B]!
+\[Cm7]  Cherche ton |\[D]bonheur par\[Eb]tout,  \[E7(dim)]vas,
+Bb/\[F]Refuse ce \[D/F#]monde égo\[Gm]ïste ! \[G/B]
+\[Cm7]        \[D]  Ré\[Gm]siste !\[G/B]
+\[Cm7]  Suis ton c\[D]½ur qui in\[Gm]siste !\[G/B]
+\[Cm7]  Ce monde|\[D] n'est pas le \[Eb]tien,  \[E7(dim)]viens !
+Bb/\[F]Bats-toi, \[D/F#]signe et per\[Gm]siste !\[G/B]
+\[Cm7]        \[D]  Ré\[Gm]siste !\[G/B]        \[Cm7]          \[D]
+\end{chorus}
+\begin{verse}
+
+\[Gm]Tant de libertés \[Bb]   pour si peu de bon\[C]heur,
+Est-ce que ça vaut la \[Eb]peine ?
+\[Gm]On veut t'amener \[Bb]   à renier tes e\[C]rreurs,
+C'est pas pour ça qu'on \[Eb]t'aime
+\[Gm]  Si tu réalises que l'a\[D]mour n'e     st pas \[D/C]là,
+Que, le \[D/Bb]soir, tu   te  D/A couches
+Sans au\[D7]cun rêve en toi,
+\end{verse}
+\begin{chorus}
+    
+    \musicnote{\Chorus}
+\end{chorus}
+\begin{verse}
+
+\[Gm]Danse pour le \[F]début du \[C]monde !
+\[Gm]Danse pour tous \[F]ceux qui ont \[C]peur !
+\[Gm]Danse pour les \[F]milliers de \[C]coeurs
+Qui ont droit au bon\[Bb6]heur !  \[A7]      \[Abmaj7]
+\end{verse}
+\begin{verse*}
+Ré\[Gm]siste \[G/B]      \[Cm7]        \[D]      \[Gm]       \[G/B]
+\[Cm7]        \[D]  Ré\[Gm]siste !\[G/B]        \[Cm7]        \[D]     \[Gm]       \[G/B] \rep{2}
+\end{verse*}
+\begin{chorus}
+    
+    \musicnote{\Chorus}
+\end{chorus}
+
+  \begin{verse*}
+    \musicnote {\Outro : }
+    \[Cm7]        \[D]  Ré\[Gm]siste !\[G/B]        \[Cm7]        \[D]     \[Gm]       \[G/B] \rep{2}
+  \end{verse*}
+
+
+\endsong

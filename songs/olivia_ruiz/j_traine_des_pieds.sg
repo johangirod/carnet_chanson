@@ -1,0 +1,62 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{J'traîne des pieds}
+    [by={Olivia Ruiz}]
+\capo{7}
+  
+
+\begin{verse*} 
+    \musicnote {\Intro : \nolyrics \[Am E7 Am E7] \rep{2}}
+  \end{verse*}
+
+  \begin{verse} 
+
+\[Am] J’traînais les pieds, des cass\[E7]eroles
+J’n’aimais pas beaucoup l’é\[Am]cole \[E7]
+\[Am] J’traînais les pieds, mes gui\[E7]boles abîm\[Am]ées
+J’explorais mon quar\[E7]tier
+  \end{verse} 
+\begin{verse} 
+
+    \[Am] J’traînais des pieds dans mon ca\[E7]fé
+Les vieux à la belotte brail\[Am]laient\[E7]
+\[Am] Papi, mamie, tonton An\[E7]dré et toutes ces pé\[Am]pées
+A mes p’tits soins, à m’poupon\[E7]ner
+\end{verse}
+\begin{chorus} 
+    É\[Am]corché mon visage, é\[Em]corchés mes genoux
+É\[G]corché mon p’tit coeur tout \[F]mou
+Bou\[Am]sillées mes godasses, bou\[Em]sillé sur ma joue
+Bou\[G]sillées les miettes de \[F]nous
+\end{chorus}
+\begin{verse} 
+    \musicnote {\nolyrics \[Am E7 Am E7]}
+
+\[Am] La fumée du boeuf bourguign\[E7]on
+Toute la famille tête dans l’gui\[Am]don
+Du temps où ont pouvaient faire les \[E7]cons
+\[Am] Les pensionnaires, les habitu\[E7]és
+Les gens d’passage surtout l’ét\[Am]é
+Joyeux bordel dans mon ca\[E7]fé
+\end{verse} 
+
+\begin{chorus} 
+    \Chorus
+\end{chorus}
+\begin{bridge}
+    \musicnote {\Bridge : \nolyrics \[Am Em Am Em] \rep{2}}
+\end{bridge}
+\begin{verse} 
+
+\[Am] Je traîne les pieds, j’traîne mes cass\[E7]eroles
+\[Am] J’n’aime toujours pas l’é\[E7]cole
+\end{verse}
+\begin{chorus} 
+    \Chorus
+\end{chorus}
+\begin{verse}
+    \Outro
+    \musicnote {\nolyrics \[Am Em G F] \rep{2}}
+    \musicnote {\nolyrics \[Am E7 Am E7] \rep{2}} \musicnote {\nolyrics \[Em] }
+\end{verse}
+\endsong

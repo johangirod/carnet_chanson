@@ -1,0 +1,76 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le dernier jour du disco}
+  [by={Juliette Armanet}]
+  \gtab*{F#m7}{2:010000}
+  \gtab*{G/D}{XX0001}
+  \gtab*{A/Db}{2:X20003}
+
+  \begin{verse}
+
+C'est la \[Em]fin, le tout dernier ma\[F#m7]tin,
+Le tout dernier jas\[C]min.
+Ne me lâche pas la \[B] main !
+C'est la \[Em]fin ; le soleil au loin\[F#m7]tain
+S'écoule seul dans son \[C]coin.
+Ne me lâche pas ! Je \[B]te tiens.
+\end{verse}
+\begin{chorus}
+Le dernier jour du \[C]disco,
+Je veux le passer sur \[G]ta peau
+À rou\[Em]gir comme un coqueli\[A]cot.
+Le dernier jour du \[C]disco,
+Je veux l'entendre en sté\[G]réo
+Et te \[Em]dire qu'y a rien de plus \[A]beau.
+\end{chorus}
+\begin{verse}
+C'est la \[Em]fin ; les statues d'air\[F#m7]ain
+Coulent dans leur cha\[C]grin.
+Ne me lâche pas la \[B] main !
+C'est la \[Em]fin ; les rivières du dest\[F#m7]in
+S'affolent comme du sa\[C]tin.
+Ne te lâche pas ! Je \[B]te tiens.
+\end{verse}
+\begin{chorus}
+Le dernier jour du \[C]disco,
+Je veux le passer sur \[G]ta peau
+À rou\[Em]gir comme un coqueli\[A]cot.
+Le dernier jour du \[C]disco,
+Je veux l'entendre en sté\[G]réo
+Et te \[Em]dire que rien n'est plus \[A]beau.
+\end{chorus}
+\begin{verse}
+C'est la \[Em]fin ; les couleurs, soud\[F#m7]ain,
+Se confondent au fu\[C]sain.
+Ne me lâche pas ! C'est \[B] rien.
+C'est la \[Em]fin ; je vois sur le des\[F#m7]sin
+Quelque chose de di\[C]vin,
+Ton égale, mon jard\[B]in.
+\end{verse}
+\begin{chorus}
+Le dernier jour du \[C]disco,
+Je veux le passer sur \[G]ta peau
+À rou\[Em]gir comme un coqueli\[A]cot.
+Le dernier jour du \[C]disco,
+Je veux l'entendre en sté\[G]réo
+Et te \[Em]dire que rien n'est plus \[A]beau.
+\end{chorus}
+\begin{bridge}
+    \textnote[french]{Chœur}
+
+\echo{Dernier jour du dis\[Em]co, dernier jour du dis\[G/D]co,}
+\echo{Dernier jour du dis\[A/Db]co, dernier jour du dis\[B]co}
+\echo{Dernier jour du dis\[Em]co, dernier jour du dis\[G/D]co,}
+\echo{Dernier jour du dis\[A/Db]co, dernier jour du dis\[B]co}
+\end{bridge}
+\begin{chorus}
+ 
+\[B]  Le dernier jour du d\[C]isco,
+Je veux le passer sur \[G]ta peau
+À rou\[Em]gir comme un coqueli\[A]cot.
+Le dernier jour du \[C]disco,
+Je veux l'entendre en sté\[G]réo
+Et te \[Em]dire que rien n'est plus \[A]beau.
+C'est la \[Em]fin.
+\end{chorus}
+\endsong

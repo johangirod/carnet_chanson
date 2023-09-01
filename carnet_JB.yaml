@@ -1,0 +1,65 @@
+
+book:
+  lang: fr
+  encoding: utf8
+  datadir: "patadata"
+  template: carnet.tex
+  pictures: no
+chords:
+  show: yes
+  diagramreminder: important
+  repeatchords: yes
+  lilypond: yes
+  # notation: alphascale
+
+authors:
+  separators:
+    - "and"
+    - "et"
+
+content:
+  - "louise_attaque/je_t_emmene_au_vent.sg"
+  - "louise_attaque/les_nuits_parisiennes.sg"
+  #TODO petit frere
+  - "georges_moustaki/le_méthèque.sg"
+  - "hugue_auffray/debout_les_gars.sg"
+  - "moriarty/jimmy.sg"
+  - "kyo/derniere_danse.sg"
+  - "hugues_aufray/le_bon_dieu_s_enervait.sg"
+  - "norah_jones/somewhere_over_the_rainbow.sg"
+  - "jacques_brel/vesoul.sg"
+  - "pow_wow/le_lion_est_mort_ce_soir.sg"
+  - "johnny_halliday/les_portes_du_pénitencier.sg"
+  - "la_rue_ketanou/les_hommes_que_j_aime.sg"
+  - "jacques_dutronc/il_est_cinq_heures_paris_s_eveille.sg"
+  - "renaud/hexagone.sg"
+  - "iggy_pop/the_passenger.sg"
+  # Wait a little while
+  - "ben_e_king/stand_by_me.sg"
+  - "oasis/wonderwall.sg"
+  - "france_gall/résiste.sg"
+  - "noir_desir/le_vent_nous_portera.sg"
+  - "the_clash/should_i_stay_or_should_i_go.sg"
+  - "debout_sur_le_zinc/la_declaration.sg"
+  - "renan_luce/la_lettre.sg"
+  - "les_cowboys_fringants/plus_rien.sg"
+  - "leonard_cohen/the_partisan.sg"
+  
+  - "traditionnel/le_vent_des_prophètes.sg"
+  - "mano_negra/mala_vida.sg"
+  - "alison_krauss/down_to_the_river_to_pray.sg"
+  # les gens qui sont nés quelque part brassens
+  - "the_doors/riders_on_the_storm.sg"
+  - "pink_floyd/another_brick_in_the_wall.sg"
+  - "brassens/la_ballade_des_gens_qui_sont_nés_quelque_part.sg"
+
+template:
+  carnet.tex:
+    color:
+      songlink: '222222'
+      hyperlink: '222222'
+    bgcolor:
+      note: 'dddddd'
+      songnumber: 'aaaaaa'
+      index: 'aaaaaa'
+      
